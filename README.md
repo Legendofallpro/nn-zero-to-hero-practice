@@ -1,2 +1,28 @@
-# nn-zero-to-hero-practice
-My code and notes from Andrej Karpathy’s Zero to Hero series. Implementations of neural networks and deep learning concepts from scratch.
+# Zero to Hero Practice (Andrej Karpathy)
+
+This repository contains my implementations, experiments, and notes while following Andrej Karpathy’s **Neural Networks: Zero to Hero** series.
+
+## Overview
+
+The goal of this repository is to learn the fundamentals of deep learning by building everything from scratch, following the concepts presented in Karpathy’s series. Each directory corresponds to one part of the course and includes code, notes, and experiments.
+
+## Repository Structure
+
+│
+├── 01-makemore/
+│ ├── makemore.ipynb
+│ ├── notes.pdf
+│ 
+│
+├── 02-micrograd/
+│ ├── micrograd.ipynb
+│ ├── notes.pdf
+│ 
+│
+├── 03-nanogpt/
+│ ├── model.py
+│ ├── train.py
+│ ├── data/
+│ └── 
+│
+└── README.md
