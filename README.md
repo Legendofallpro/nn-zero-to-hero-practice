@@ -8,21 +8,5 @@ The goal of this repository is to learn the fundamentals of deep learning by bui
 
 ## Repository Structure
 
-│
-├── 01-makemore/
-│ ├── makemore.ipynb
-│ ├── notes.pdf
-│ 
-│
-├── 02-micrograd/
-│ ├── micrograd.ipynb
-│ ├── notes.pdf
-│ 
-│
-├── 03-nanogpt/
-│ ├── model.py
-│ ├── train.py
-│ ├── data/
-│ └── 
-│
-└── README.md
+1 - Micrograd
+2 - Makemore
